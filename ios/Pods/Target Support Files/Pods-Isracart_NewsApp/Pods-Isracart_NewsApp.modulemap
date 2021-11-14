@@ -1,0 +1,6 @@
+module Pods_Isracart_NewsApp {
+  umbrella header "Pods-Isracart_NewsApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

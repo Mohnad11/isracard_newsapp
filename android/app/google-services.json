@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "106060791935",
+    "project_id": "isracard-newsapp",
+    "storage_bucket": "isracard-newsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106060791935:android:c6c3956fc13eef2a2dff4a",
+        "android_client_info": {
+          "package_name": "org.isracard.NewsApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106060791935-taqfhc606id617gkvobfu3l0d4v09iq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDppyLre-6CDCgTWOfgCEmwjYQRNjKNAgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106060791935-taqfhc606id617gkvobfu3l0d4v09iq2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106060791935-kf2s1iomkpdo733ijkqj5qjooficnbkf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.isracard.NewsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

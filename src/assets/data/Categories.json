@@ -1,0 +1,30 @@
+[
+  {
+    "name": "general",
+    "icon": "earth"
+  },
+  {
+    "name": "business",
+    "icon": "briefcase"
+  },
+  {
+    "name": "entertainment",
+    "icon": "book"
+  },
+  {
+    "name": "health",
+    "icon": "heart-pulse"
+  },
+  {
+    "name": "science",
+    "icon": "flask"
+  },
+  {
+    "name": "sports",
+    "icon": "basketball"
+  },
+  {
+    "name": "technology",
+    "icon": "chip"
+  }
+]
